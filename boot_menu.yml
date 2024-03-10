@@ -1,5 +1,5 @@
 ublue_variants:
-  - label: blue-build/template
+  - label: marinmo/solid-wall-of-sound
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: blue-build/template
+      - label: solid-wall-of-sound
