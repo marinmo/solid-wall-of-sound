@@ -33,7 +33,6 @@ modules:
       
   - type: bling
     install:
-      - laptop
       - ublue-update
 
   - type: rpm-ostree
