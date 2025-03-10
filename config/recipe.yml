@@ -31,9 +31,9 @@ modules:
       - Roboto
       - Open Sans
       
-  - type: bling
-    install:
-      - ublue-update
+#  - type: bling
+#    install:
+#      - ublue-update
 
   - type: rpm-ostree
     repos:
